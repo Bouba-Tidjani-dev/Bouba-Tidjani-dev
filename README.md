@@ -44,8 +44,9 @@ Built a computer vision pipeline to distinguish between artworks and real photos
 ## 📈 Currently Learning
 
 - Python (intermediate level)
-- Machine Learning basics
+- Machine Learning 
 - Real-world AI applications
+- 🤝 I’m looking to collaborate on Python or AI projects
 
 ---
 
@@ -58,4 +59,4 @@ Built a computer vision pipeline to distinguish between artworks and real photos
 
 ## ⚡ Fun Fact
 
-I'm a big fan of basketball 🏀 (Go Wemby!) and I enjoy exploring new tech trends.
+I enjoy both tech and creativity — from building projects to following basketball 🏀 (Go Wemby!).
