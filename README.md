@@ -37,7 +37,7 @@ Built a computer vision pipeline to distinguish between artworks and real photos
 - Classification using SVM  
 - Achieved **85% accuracy** with RBF kernel  
 
-👉 https://github.com/Bouba-Tidjani-dev/Computer-Vision-BoVW-Classification)
+👉 https://github.com/Bouba-Tidjani-dev/Computer-Vision-BoVW-Classification
 
 ---
 
