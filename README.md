@@ -1,7 +1,7 @@
 # Hi, I'm Bouba 👋
 
 🎓 Art & AI student  
-💻 Aspiring AI Developer (Python)  
+💻 Aspiring AI Developer 
 🧠 Curious about how systems work and how to build useful tech  
 
 ---
@@ -10,7 +10,7 @@
 
 I’m currently building my foundation in **Python and Artificial Intelligence** through hands-on projects.
 
-I enjoy going beyond just using tools — I like to understand how they work and apply them to real problems.
+I enjoy going beyond just using tools. I like to understand how they work and apply them to real problems.
 
 My goal is to grow step by step by building real-world projects and improving my technical skills.
 
@@ -18,9 +18,9 @@ My goal is to grow step by step by building real-world projects and improving my
 
 ## 🛠️ Skills
 
-- Python (basics)
+- Python 
 - Artificial Intelligence (fundamentals)
-- Computer Vision (basics)
+- Computer Vision 
 - Git 
 - Canva / Visual Design
 
@@ -43,7 +43,7 @@ Built a computer vision pipeline to distinguish between artworks and real photos
 
 ## 📈 Currently Learning
 
-- Python (intermediate level)
+- Python 
 - Machine Learning 
 - Real-world AI applications
 - 🤝 I’m looking to collaborate on Python or AI projects
@@ -59,4 +59,4 @@ Built a computer vision pipeline to distinguish between artworks and real photos
 
 ## ⚡ Fun Fact
 
-I enjoy both tech and creativity — from building projects to following basketball 🏀 (Go Wemby!).
+I enjoy both tech and creativity from building projects to following basketball 🏀 (Go Wemby!).
