@@ -1,7 +1,7 @@
 # Hi, I'm Bouba 👋
 
 🎓 Art & AI student  
-💻 Aspiring AI Developer 
+💻 Aspiring AI Engineer
 🧠 Curious about how systems work and how to build useful tech  
 
 ---
